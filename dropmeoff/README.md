@@ -1,16 +1,12 @@
 # dropmeoff
 
-A new Flutter project.
+dropmeoff is a car sharing application in Chiang Mai University.It is built on ios operating system with flutter framework.
+The applicaiton have a two side of user call 'User' and 'Driver'. User can select the destination where you want to go and drivers will be able to pick up users to drop off at their destination.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements Hardware
+	android studio
+	Visual Studio
+	Xcode
+	Google Cloud (Map Api key)
+	
